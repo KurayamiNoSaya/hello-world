@@ -3,4 +3,4 @@ main
 
 Hello,
 
-I enjoy reading and listening to music on my free time. 
+I enjoy reading and listening to music in my free time. 
